@@ -176,4 +176,4 @@ elif choice == '📂 Retrieve Data':
 
 # Footer
 st.markdown("---")
-st.markdown("<center>❤️ Build with love by <strong>Akbar Ali</strong></center>", unsafe_allow_html=True)
+st.markdown("<center>Build with love by <strong>Akbar Ali</strong></center>", unsafe_allow_html=True)
